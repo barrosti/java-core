@@ -1,0 +1,5 @@
+135;Jhon;true
+246;Peter;false
+789;Walker;true
+159;Jenifer;true
+132;Marta;false
